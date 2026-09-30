@@ -1,0 +1,32 @@
+[
+  {
+    "produit": "KBC-Start2Save (épargne enfant)",
+    "signaux": ["naissance", "jeune_parent", "epargne_enfant"],
+    "message": "Félicitations pour votre nouveau-né ! Préparez son avenir dès aujourd'hui avec notre compte d'épargne dédié.",
+    "url": "https://www.kbc.be/particuliers/fr/epargner/comptes-epargne/compte-d-epargne-pour-tiers.html?zone=topnav"
+  },
+  {
+    "produit": "KBC-Start2Save (épargne automatique)",
+    "signaux": ["premier_salaire", "pas_epargne", "objectif_long_terme"],
+    "message": "Prenez une longueur d'avance ! Un petit montant épargné chaque mois suffit pour bâtir un avenir serein.",
+    "url": "https://www.kbc.be/particuliers/fr/epargner/qu-est-ce-que-l-epargne-a-long-terme.html?zone=topnav"
+  },
+  {
+    "produit": "KBC Flex Budget",
+    "signaux": ["revenus_irreguliers", "freelance", "solde_faible"],
+    "message": "Avec des revenus variables, une réserve d'argent disponible à tout moment change la donne.",
+    "url": "https://www.kbc.be/particuliers/fr/epargner/qu-est-ce-que-l-epargne-a-long-terme.html?zone=topnav"
+  },
+  {
+    "produit": "KBC Home & Pension Plan",
+    "signaux": ["proche_retraite", "epargne_importante", "age_plus_50"],
+    "message": "Il n'est jamais trop tard pour optimiser votre pension. Notre plan vous garantit un rendement avec un avantage fiscal.",
+    "url": "https://www.kbc.be/particuliers/fr/epargne-pension.html?zone=topnav"
+  },
+  {
+    "produit": "Assurance familiale KBC",
+    "signaux": ["jeune_parent", "depenses_bebe"],
+    "message": "Protégez toute votre famille avec une seule assurance. Nos conseillers vous aident à choisir la couverture idéale.",
+    "url": "https://www.kbc.be/particuliers/fr/epargne-pension/assurance-epargne-pension.html?zone=topnav"
+  }
+]

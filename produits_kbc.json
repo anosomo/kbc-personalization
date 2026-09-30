@@ -1,0 +1,43 @@
+
+[
+  {
+    "produit": "KBC-Start2Save (épargne enfant)",
+    "message": "Félicitations pour votre nouveau-né ! Préparez son avenir dès aujourd'hui avec notre compte d'épargne dédié.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  },
+  {
+    "produit": "KBC-Start2Save (épargne automatique)",
+    "message": "Prenez une longueur d'avance ! Un petit montant épargné chaque mois suffit pour bâtir un avenir serein.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  },
+  {
+    "produit": "KBC Flex Budget",
+    "message": "Avec des revenus variables, une réserve d'argent disponible à tout moment change la donne.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  },
+  {
+    "produit": "KBC Home & Pension Plan",
+    "message": "Il n'est jamais trop tard pour optimiser votre pension. Notre plan vous garantit un rendement avec un avantage fiscal.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne-pension.html"
+  },
+  {
+    "produit": "Assurance familiale KBC",
+    "message": "Protégez toute votre famille avec une seule assurance. Nos conseillers vous aident à choisir la couverture idéale.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  },
+  {
+    "produit": "KBC Crédit hypothécaire",
+    "message": "Votre projet immobilier mérite un financement sur mesure. Nos experts vous accompagnent de la simulation à la signature, avec un taux compétitif.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  },
+  {
+    "produit": "KBC Prêt personnel",
+    "message": "Financez vos projets personnels rapidement, avec un remboursement adapté à votre budget.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  },
+  {
+    "produit": "KBC Assurance habitation",
+    "message": "Protégez votre logement et vos biens avec une couverture complète et modulable.",
+    "url": "https://www.kbc.be/particuliers/fr/produits/epargne.html"
+  }
+]
